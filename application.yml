@@ -1,6 +1,6 @@
 spring:
   application:
-    name: SPRING-GIT-WARO
+    name: SPRING-DEV
 eureka:
   instance:
     prefer-ip-address: true
