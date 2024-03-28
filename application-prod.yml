@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: SPRING-PROD
 eureka:
   instance:
     prefer-ip-address: true
